@@ -1,14 +1,9 @@
-This repo is being continuously updated by me as a help to [@tapeswinpatak](https://github.com/tapaswenipathak) as she is unable to merge more pull requests and has decided to take a break from https://github.com/tapaswenipathak/Open-Source-Programs.
-
-All PR's are now being entertained, Please star this repo in order to get further updates
-
-
 | Name                                    | Stipend | Timeline            | Start Date                         | End Date                     |
 |-----------------------------------------|-------------|-----------------|------------------------------------------------|----------------------------------------------------|
 | [MLH Open Source Fellowship](https://fellowship.mlh.io/) | Yes | [timeline](https://fellowship.mlh.io/programs/open-source) |February and May |April and August | 
 | [Season of Docs](https://developers.google.com/season-of-docs/) | Yes | [timeline](https://developers.google.com/season-of-docs/docs/timeline) | May 17, 2021| December 14, 2021|
 | [Season of KDE](https://season.kde.org) | No      | [timeline](https://season.kde.org/) | December | April |
-| [Outreachy](https://www.gnome.org/outreachy/) | Yes | [timeline](https://www.gnome.org/outreachy/) | February 22 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   - |
+| [Outreachy](https://www.gnome.org/outreachy/) | Yes | [timeline](https://www.gnome.org/outreachy/) | February 22 | 
 | [GSOC](https://developers.google.com/open-source/gsoc/) | Yes | [timeline](https://summerofcode.withgoogle.com/how-it-works/#timeline)      | March | April |
 | [LFN Mentorship Program](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program) | Yes | [timeline](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program#LFNMentorshipProgram-2020ProgramTimeline*) | January | June |
 | [The X.Org Endless Vacation of Code (EVoC)](https://www.x.org/wiki/XorgEVoC/)| Yes |[timeline](https://summerofcode.withgoogle.com/how-it-works/#timeline)     |
@@ -19,7 +14,6 @@ All PR's are now being entertained, Please star this repo in order to get furthe
 | [Open Mainframe Project - Linux Foundation](https://www.openmainframeproject.org/projects/internship-program) | Yes |  |
 | [Processing Foundation Fellowship](https://processingfoundation.org/fellowships/) | Yes |  |
 | [RARE Technologies Student Incubator Programme](https://rare-technologies.com/incubator/#details) | Yes | [timeline](https://rare-technologies.com/incubator/#details)    |
-| [Open Summer of Code](https://summerofcode.be/) | Yes |[timeline](https://summerofcode.be/practical)|
 | [FOSSASIA Internship Programme]( https://fossasia.org/internship) | Yes | [timeline](https://fossasia.org/internship)     | Whole year |
 | [Hyperledger Mentorship Program](https://wiki.hyperledger.org/display/INTERN/How+to+Apply) | Yes | [timeline](https://wiki.hyperledger.org/display/INTERN/How+to+Apply) | Whole Year |
 | [Snowplow](https://snowplowanalytics.com/company/careers/?gh_jid=1107068) | Yes |  |
@@ -37,7 +31,7 @@ All PR's are now being entertained, Please star this repo in order to get furthe
 | [Vectorised IO*](https://vectorized.io/scholarship/) | Yes | |
 
 * *Interns must be currently enrolled or employed at a U.S. university or other research institution and must currently reside in, and be eligible to work in, the United States.<br>
-* ** OSoC is only open to Belgian students.
+
 
 # Open Source Competitions
 
