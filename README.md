@@ -1,6 +1,5 @@
 | Name                                    | Stipend | Timeline            | Start Date                         | End Date                     |
 |-----------------------------------------|-------------|-----------------|------------------------------------------------|----------------------------------------------------|
-| [MLH Open Source Fellowship](https://fellowship.mlh.io/) | Yes | [timeline](https://fellowship.mlh.io/programs/open-source) |February and May |April and August | 
 | [Season of Docs](https://developers.google.com/season-of-docs/) | Yes | [timeline](https://developers.google.com/season-of-docs/docs/timeline) | May 17, 2021| December 14, 2021|
 | [Season of KDE](https://season.kde.org) | No      | [timeline](https://season.kde.org/) | December | April |
 | [Outreachy](https://www.gnome.org/outreachy/) | Yes | [timeline](https://www.gnome.org/outreachy/) | February 22 | 
